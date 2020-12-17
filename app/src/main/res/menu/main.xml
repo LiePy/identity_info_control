@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/add"
+        android:title="添加联系人" />
+    <item
+        android:id="@+id/help"
+        android:title="使用帮助" />
+    <item
+        android:id="@+id/about"
+        android:title="版本信息" />
+
+</menu>
