@@ -1,0 +1,2 @@
+rootProject.name='identity_info_control'
+include ':app'

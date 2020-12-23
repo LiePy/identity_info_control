@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.address_book">
+    package="com.example.identity_info_control">
 
     <uses-permission android:name="android.permission.ACCESS_MEDIA_LOCATION" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
@@ -13,10 +13,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".InformationActivity"></activity>
-        <activity android:name=".Activity_Detail" />
-        <activity android:name=".Activity_Add" />
-        <activity android:name=".Activity_Main">
+        <activity android:name="com.example.identity_info_control.Activitys.Activity_Information"></activity>
+        <activity android:name="com.example.identity_info_control.Activitys.Activity_Detail" />
+        <activity android:name="com.example.identity_info_control.Activitys.Activity_Add" />
+        <activity android:name="com.example.identity_info_control.Activitys.Activity_Main">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

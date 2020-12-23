@@ -2,7 +2,7 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/add"
-        android:title="添加联系人" />
+        android:title="添加数据" />
     <item
         android:id="@+id/help"
         android:title="使用帮助" />

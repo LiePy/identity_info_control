@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">address_book</string>
+    <string name="app_name">身份信息管理系统</string>
+    <string name="help"></string>
 </resources>
